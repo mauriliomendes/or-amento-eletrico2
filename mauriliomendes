@@ -1,0 +1,11 @@
+git clone https://github.com/<seu-usuario>/orcamento-eletrico2.git
+cd orcamento-eletrico2
+
+# Crie as pastas e arquivos conforme montamos:
+# public/index.html, src/{App.jsx,main.jsx,index.css},
+# package.json, tailwind.config.js
+
+# Depois, faça:
+git add .
+git commit -m "Projeto inicial: orçamento elétrico com Vite + Tailwind"
+git push origin main
